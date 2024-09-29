@@ -27,6 +27,9 @@ The dataset includes 10 categories: Name, College Name, Degree, Graduation Year,
 
 To evaluate the model the data was split into 85% (187 documents) for training and 15% (33 documents) for validation.
 
+![image](https://github.com/user-attachments/assets/ba036a9f-bbea-4172-b3a5-d09115736850)
+
+
 ## **Training Results**
 
 Despite the small size of the dataset, I was able to achieve a **90% F1 score (weighted)**. This demonstrates the effectiveness of the BERT model in performing Named Entity Recognition (NER) on resumes, even with limited training data.
